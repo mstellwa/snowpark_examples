@@ -1,0 +1,1264 @@
+﻿[
+    {
+      "created_at": "Thu Aug 22 00:46:55 +0000 2019",
+      "id": 1164338122651590700,
+      "id_str": "1164338122651590656",
+      "text": "RT @DiscoverSelf: Selenium Trace Mineral to Your Body's Antioxidant Reserves #AMCoffee #HeartThis #HealthyLiving #Foods #Women #WomensHealt…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "AMCoffee",
+            "indices": [
+              77,
+              86
+            ]
+          },
+          {
+            "text": "HeartThis",
+            "indices": [
+              87,
+              97
+            ]
+          },
+          {
+            "text": "HealthyLiving",
+            "indices": [
+              98,
+              112
+            ]
+          },
+          {
+            "text": "Foods",
+            "indices": [
+              113,
+              119
+            ]
+          },
+          {
+            "text": "Women",
+            "indices": [
+              120,
+              126
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "DiscoverSelf",
+            "name": "Celebrate Woman",
+            "id": 24968293,
+            "id_str": "24968293",
+            "indices": [
+              3,
+              16
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 82836976,
+        "id_str": "82836976",
+        "name": "Beck Valley Books",
+        "screen_name": "beckvalleybooks",
+        "location": "Billingham UK",
+        "description": "Our blog is full of book / product reviews, news and giveaways as well as family news.  We love being part of the blogging community.",
+        "url": "http://t.co/kB73uVDWrn",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/kB73uVDWrn",
+                "expanded_url": "http://www.beckvalleybooks.blogspot.com",
+                "display_url": "beckvalleybooks.blogspot.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 17825,
+        "friends_count": 7549,
+        "listed_count": 684,
+        "created_at": "Fri Oct 16 09:11:23 +0000 2009",
+        "favourites_count": 959,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 144026,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "8B542B",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1087336744968732672/7OqvHSjm_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1087336744968732672/7OqvHSjm_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/82836976/1500735230",
+        "profile_link_color": "9D582E",
+        "profile_sidebar_border_color": "D9B17E",
+        "profile_sidebar_fill_color": "EADEAA",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Wed Aug 21 12:53:05 +0000 2019",
+        "id": 1164158480074363000,
+        "id_str": "1164158480074362880",
+        "text": "Selenium Trace Mineral to Your Body's Antioxidant Reserves #AMCoffee #HeartThis #HealthyLiving #Foods #Women… https://t.co/IV3OlsDPSS",
+        "truncated": true,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "AMCoffee",
+              "indices": [
+                59,
+                68
+              ]
+            },
+            {
+              "text": "HeartThis",
+              "indices": [
+                69,
+                79
+              ]
+            },
+            {
+              "text": "HealthyLiving",
+              "indices": [
+                80,
+                94
+              ]
+            },
+            {
+              "text": "Foods",
+              "indices": [
+                95,
+                101
+              ]
+            },
+            {
+              "text": "Women",
+              "indices": [
+                102,
+                108
+              ]
+            }
+          ],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/IV3OlsDPSS",
+              "expanded_url": "https://twitter.com/i/web/status/1164158480074362880",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                110,
+                133
+              ]
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"http://app.sendblur.com\" rel=\"nofollow\">Social Media Publisher App </a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 24968293,
+          "id_str": "24968293",
+          "name": "Celebrate Woman",
+          "screen_name": "DiscoverSelf",
+          "location": "USA",
+          "description": "Giving women moments to celebrate every day.  Follow Along #DisneyPartner #WomensHealth #SkinYouth #BreastCancerAwareness #RecipeIdeas",
+          "url": "https://t.co/Gl6Kk22YvA",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https://t.co/Gl6Kk22YvA",
+                  "expanded_url": "http://www.CelebrateWomanToday.com",
+                  "display_url": "CelebrateWomanToday.com",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 61705,
+          "friends_count": 20053,
+          "listed_count": 3277,
+          "created_at": "Tue Mar 17 22:21:00 +0000 2009",
+          "favourites_count": 23869,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 527511,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "000000",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/2794741186/3e9dbd6e0280be106dac91fd6d3ef775_normal.png",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/2794741186/3e9dbd6e0280be106dac91fd6d3ef775_normal.png",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/24968293/1552500605",
+          "profile_link_color": "CC0066",
+          "profile_sidebar_border_color": "055C94",
+          "profile_sidebar_fill_color": "6FC1F6",
+          "profile_text_color": "000000",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 2,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Thu Aug 22 00:46:20 +0000 2019",
+      "id": 1164337974022217700,
+      "id_str": "1164337974022217733",
+      "text": "Antioxidant and anti-diabetic activities of polysaccharides from guava leaves. - https://t.co/3z91QV4t0r website is… https://t.co/VPTmzqdGi3",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/3z91QV4t0r",
+            "expanded_url": "http://fungov.co.uk/index.php/2019/08/21/antioxidant-and-anti-diabetic-activities-of-polysaccharides-from-guava-leaves/This",
+            "display_url": "fungov.co.uk/index.php/2019…",
+            "indices": [
+              81,
+              104
+            ]
+          },
+          {
+            "url": "https://t.co/VPTmzqdGi3",
+            "expanded_url": "https://twitter.com/i/web/status/1164337974022217733",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://fungov.co.uk\" rel=\"nofollow\">Barry Tweet</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 55072213,
+        "id_str": "55072213",
+        "name": "Total Well Being",
+        "screen_name": "brrsmit406",
+        "location": "UK",
+        "description": "Diabetes Sufferer and keenly interested in healthcare, fitness and happiness!",
+        "url": "https://t.co/ddCg57PRMk",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/ddCg57PRMk",
+                "expanded_url": "http://fungov.co.uk",
+                "display_url": "fungov.co.uk",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 748,
+        "friends_count": 940,
+        "listed_count": 7,
+        "created_at": "Wed Jul 08 23:44:10 +0000 2009",
+        "favourites_count": 17,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 37263,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1158380940432990209/adZogkUG_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1158380940432990209/adZogkUG_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Thu Aug 22 00:26:09 +0000 2019",
+      "id": 1164332896267772000,
+      "id_str": "1164332896267771905",
+      "text": "All About Green #Tea https://t.co/QZjbta7GFF - https://t.co/cS74cHHGfy #editorspicks #infographics #antioxidant",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "Tea",
+            "indices": [
+              16,
+              20
+            ]
+          },
+          {
+            "text": "editorspicks",
+            "indices": [
+              71,
+              84
+            ]
+          },
+          {
+            "text": "infographics",
+            "indices": [
+              85,
+              98
+            ]
+          },
+          {
+            "text": "antioxidant",
+            "indices": [
+              99,
+              111
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/QZjbta7GFF",
+            "expanded_url": "https://goo.gl/fb/ogJdJv",
+            "display_url": "goo.gl/fb/ogJdJv",
+            "indices": [
+              21,
+              44
+            ]
+          },
+          {
+            "url": "https://t.co/cS74cHHGfy",
+            "expanded_url": "http://HealthTipsEver.com",
+            "display_url": "HealthTipsEver.com",
+            "indices": [
+              47,
+              70
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"https://www.google.com/\" rel=\"nofollow\">Google</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 2213742206,
+        "id_str": "2213742206",
+        "name": "Health Tips Ever",
+        "screen_name": "HealthTipsEver",
+        "location": "",
+        "description": "Useful Authoritative Health Tips Ever. Healthy Living - Happy Life.",
+        "url": "http://t.co/lw1RMCh9IA",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/lw1RMCh9IA",
+                "expanded_url": "http://healthtipsever.com",
+                "display_url": "healthtipsever.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 132,
+        "friends_count": 405,
+        "listed_count": 16,
+        "created_at": "Mon Nov 25 07:59:07 +0000 2013",
+        "favourites_count": 9,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 421,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": true,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/571176642978934784/UK3OpIys_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/571176642978934784/UK3OpIys_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2213742206/1385898194",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+  "created_at": "Fri May 10 17:23:22 +0000 2019",
+  "id": 1126900550266708000,
+  "id_str": "1126900550266707971",
+  "text": "It’s #snack time! For a quick &amp; delicious snack, try fruit. It’s as easy as wash, slice &amp; eat! What’s one of your f… https://t.co/EkDLLEojgA",
+  "truncated": true,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "snack",
+        "indices": [
+          5,
+          11
+        ]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [
+      {
+        "url": "https://t.co/EkDLLEojgA",
+        "expanded_url": "https://twitter.com/i/web/status/1126900550266707971",
+        "display_url": "twitter.com/i/web/status/1…",
+        "indices": [
+          125,
+          148
+        ]
+      }
+    ]
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1663312230,
+    "id_str": "1663312230",
+    "name": "Denon Stacy MS RD LD",
+    "screen_name": "rdtipoftheday",
+    "location": "",
+    "description": "Nutrition tips, recipes & encouragement from Registered Dietitian & CSP. Speaker, blogger, recipe developer & food enthusiast",
+    "url": "https://t.co/r2xKQTCluJ",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https://t.co/r2xKQTCluJ",
+            "expanded_url": "http://RDtipoftheday.blogspot.com",
+            "display_url": "RDtipoftheday.blogspot.com",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 248,
+    "friends_count": 120,
+    "listed_count": 23,
+    "created_at": "Sun Aug 11 20:00:01 +0000 2013",
+    "favourites_count": 237,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1179,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/842566166602268673/Qn590FSB_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/842566166602268673/Qn590FSB_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1663312230/1428433182",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "possibly_sensitive_appealable": false,
+  "lang": "en"
+},
+    {
+            "created_at": "Thu Aug 22 01:13:03 +0000 2019",
+            "id": 1164344701413183488,
+            "id_str": "1164344701413183488",
+            "text": "What amazingly nutritious and delicious desserts one can make from... beans?! You’re missing out if you haven’t eat… https://t.co/vt4kuZJbHz",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/vt4kuZJbHz",
+                        "expanded_url": "https://twitter.com/i/web/status/1164344701413183488",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 3852400454,
+                "id_str": "3852400454",
+                "name": "Westside Strength",
+                "screen_name": "WSC_Coach",
+                "location": "Urbandale, IA",
+                "description": "#strengthcoach #bestfriend 🏋🏼💪🏼",
+                "url": "https://t.co/1ffTP59e4n",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/1ffTP59e4n",
+                                "expanded_url": "http://www.westsidestrength.com",
+                                "display_url": "westsidestrength.com",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 88,
+                "friends_count": 199,
+                "listed_count": 4,
+                "created_at": "Sat Oct 10 23:24:06 +0000 2015",
+                "favourites_count": 103,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 887,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/652990244602515456/EVdHIXUo_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/652990244602515456/EVdHIXUo_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/3852400454/1557004958",
+                "profile_link_color": "00587C",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+    {
+            "created_at": "Thu Aug 22 00:40:21 +0000 2019",
+            "id": 1164336470242529280,
+            "id_str": "1164336470242529280",
+            "text": "I like how Barron is so protective of Cece and how she cooks nutritious, delicious food for him. #basketball wives",
+            "truncated": false,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "basketball",
+                        "indices": [
+                            97,
+                            108
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 25606523,
+                "id_str": "25606523",
+                "name": "Satina Cotton",
+                "screen_name": "Satin06",
+                "location": "",
+                "description": "",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 35,
+                "friends_count": 34,
+                "listed_count": 1,
+                "created_at": "Sat Mar 21 00:19:06 +0000 2009",
+                "favourites_count": 7106,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 861,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "FFF04D",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/2398447995/4vrrt2ieb01oplxpsq0i_normal.jpeg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/2398447995/4vrrt2ieb01oplxpsq0i_normal.jpeg",
+                "profile_link_color": "0099CC",
+                "profile_sidebar_border_color": "FFF8AD",
+                "profile_sidebar_fill_color": "F6FFD1",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 1,
+            "favorite_count": 6,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+    {
+            "created_at": "Thu Aug 22 00:29:55 +0000 2019",
+            "id": 1164333843798810625,
+            "id_str": "1164333843798810625",
+            "text": "RT @PCSDpleasantval: 😍Look at our learners  nutritious and delicious food options! 🤩😘🤩 #SpiceFieldKitchen #FarmymtoSchool #LocallyGrown #PC…",
+            "truncated": false,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "SpiceFieldKitchen",
+                        "indices": [
+                            87,
+                            105
+                        ]
+                    },
+                    {
+                        "text": "FarmymtoSchool",
+                        "indices": [
+                            106,
+                            121
+                        ]
+                    },
+                    {
+                        "text": "LocallyGrown",
+                        "indices": [
+                            122,
+                            135
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "PCSDpleasantval",
+                        "name": "PCSD Pleasant Valley",
+                        "id": 3088790626,
+                        "id_str": "3088790626",
+                        "indices": [
+                            3,
+                            19
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 327162035,
+                "id_str": "327162035",
+                "name": "Audrey Holtzman",
+                "screen_name": "audrey_holtzman",
+                "location": "Cleveland, Ohio",
+                "description": "wife • mama • runner • all views are my own. ✌🏼💜⚓️",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 198,
+                "friends_count": 834,
+                "listed_count": 1,
+                "created_at": "Fri Jul 01 03:02:37 +0000 2011",
+                "favourites_count": 149,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 595,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "FCEBB6",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+                "profile_background_tile": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1162115355902447617/v5-QD5tJ_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1162115355902447617/v5-QD5tJ_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/327162035/1565992890",
+                "profile_link_color": "CE7834",
+                "profile_sidebar_border_color": "F0A830",
+                "profile_sidebar_fill_color": "78C0A8",
+                "profile_text_color": "5E412F",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Wed Aug 21 23:35:01 +0000 2019",
+                "id": 1164320029850161153,
+                "id_str": "1164320029850161153",
+                "text": "😍Look at our learners  nutritious and delicious food options! 🤩😘🤩 #SpiceFieldKitchen #FarmymtoSchool #LocallyGrown… https://t.co/rogIyXLR1p",
+                "truncated": true,
+                "entities": {
+                    "hashtags": [
+                        {
+                            "text": "SpiceFieldKitchen",
+                            "indices": [
+                                66,
+                                84
+                            ]
+                        },
+                        {
+                            "text": "FarmymtoSchool",
+                            "indices": [
+                                85,
+                                100
+                            ]
+                        },
+                        {
+                            "text": "LocallyGrown",
+                            "indices": [
+                                101,
+                                114
+                            ]
+                        }
+                    ],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/rogIyXLR1p",
+                            "expanded_url": "https://twitter.com/i/web/status/1164320029850161153",
+                            "display_url": "twitter.com/i/web/status/1…",
+                            "indices": [
+                                116,
+                                139
+                            ]
+                        }
+                    ]
+                },
+                "metadata": {
+                    "iso_language_code": "en",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 3088790626,
+                    "id_str": "3088790626",
+                    "name": "PCSD Pleasant Valley",
+                    "screen_name": "PCSDpleasantval",
+                    "location": "",
+                    "description": "",
+                    "url": null,
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 454,
+                    "friends_count": 178,
+                    "listed_count": 7,
+                    "created_at": "Thu Mar 12 12:39:15 +0000 2015",
+                    "favourites_count": 603,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": true,
+                    "verified": false,
+                    "statuses_count": 617,
+                    "lang": null,
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "C0DEED",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/578934124003508224/XyispkOc_normal.png",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/578934124003508224/XyispkOc_normal.png",
+                    "profile_link_color": "1DA1F2",
+                    "profile_sidebar_border_color": "C0DEED",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": false,
+                    "default_profile": true,
+                    "default_profile_image": false,
+                    "following": false,
+                    "follow_request_sent": false,
+                    "notifications": false,
+                    "translator_type": "none"
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 3,
+                "favorite_count": 12,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "en"
+            },
+            "is_quote_status": false,
+            "retweet_count": 3,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+    {
+            "created_at": "Thu Aug 22 01:42:19 +0000 2019",
+            "id": 1164352066313162754,
+            "id_str": "1164352066313162754",
+            "text": "Healthy Recipe ♡ \n\nLongevity Spinach Coconut Curry with Rice, Tofu, ginger &amp; Basil. \n\nNutritious &amp; Delicious. 😀… https://t.co/0L9AwIpsLY",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/0L9AwIpsLY",
+                        "expanded_url": "https://twitter.com/i/web/status/1164352066313162754",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            121,
+                            144
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 736317595872333824,
+                "id_str": "736317595872333824",
+                "name": "Global Well-Being Ⓥ",
+                "screen_name": "AbideMindfully",
+                "location": "Florida, USA",
+                "description": "Global Well-Being, Mindfulness & Loving-kindness ♡ As always, Love Is The Answer ♡  Also Enjoying a Plant-Based Diet, Meditating, Yoga, Gardening & More ♡",
+                "url": "https://t.co/ajOupqWdw8",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/ajOupqWdw8",
+                                "expanded_url": "http://www.youtube.com/c/globalwellbeing",
+                                "display_url": "youtube.com/c/globalwellbe…",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 11657,
+                "friends_count": 12182,
+                "listed_count": 104,
+                "created_at": "Fri May 27 22:06:09 +0000 2016",
+                "favourites_count": 7027,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 17411,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/775422009694097409/ez9-d-bw_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/775422009694097409/ez9-d-bw_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/736317595872333824/1473720565",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+    {
+            "created_at": "Thu Aug 22 00:25:59 +0000 2019",
+            "id": 1164332856149041153,
+            "id_str": "1164332856149041153",
+            "text": "Feed your family easy, nutritious and delicious meals with Canadian Turkey! Turkey is packed with essential protein… https://t.co/IL2EllkS2B",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/IL2EllkS2B",
+                        "expanded_url": "https://twitter.com/i/web/status/1164332856149041153",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 190918774,
+                "id_str": "190918774",
+                "name": "tlee351",
+                "screen_name": "tlee351",
+                "location": "Canada",
+                "description": "Canada",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 833,
+                "friends_count": 2687,
+                "listed_count": 346,
+                "created_at": "Wed Sep 15 04:33:53 +0000 2010",
+                "favourites_count": 2901,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 209348,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/875921320147537920/AvvEBWlw_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/875921320147537920/AvvEBWlw_normal.jpg",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        }
+  ]

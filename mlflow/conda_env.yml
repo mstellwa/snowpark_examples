@@ -1,0 +1,15 @@
+name: mlfsnowpark
+channels:
+  - https://repo.anaconda.com/pkgs/snowflake
+  - nodefaults
+dependencies:
+  - python=3.8
+  - pip
+  - snowflake-snowpark-python[pandas]
+  - pandas
+  - numpy
+  - scikit-learn
+  - cachetools
+  - scipy
+  - pip:
+      - mlflow
