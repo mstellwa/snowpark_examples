@@ -13,3 +13,5 @@ Most of those will use a `creds.json` file, stored in this directory, with the c
     "schema":"MY SCHEMA"
 }
 ```
+
+Source data that is used by the notebooks can be lodaed by running https://github.com/mstellwa/snowpark_examples/tree/main/notebooks#:~:text=00_Load_demo_data.ipynb
