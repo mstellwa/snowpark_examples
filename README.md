@@ -14,4 +14,4 @@ Most of those will use a `creds.json` file, stored in this directory, with the c
 }
 ```
 
-Source data that is used by the notebooks can be lodaed by running  demo_training_scoring_load_data.ipynb[https://github.com/mstellwa/snowpark_examples/blob/main/notebooks/demo_training_scoring_load_data.ipynb]
+Source data that is used by the notebooks can be lodaed by running [00_Load_demo_data](https://github.com/mstellwa/snowpark_examples/blob/main/notebooks/00_Load_demo_data.ipynb)
