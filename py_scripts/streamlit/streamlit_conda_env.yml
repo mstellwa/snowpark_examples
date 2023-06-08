@@ -1,0 +1,17 @@
+name: streamlit
+channels:
+  - https://repo.anaconda.com/pkgs/snowflake/
+  - nodefaults
+dependencies:
+  - python=3.8
+  - pip
+  - snowflake-snowpark-python[pandas]
+  - snowflake-connector-python[secure-local-storage,pandas]
+  - pandas
+  - numpy
+  - scikit-learn
+  - scipy
+  - plotly
+  - cloudpickle
+  - cachetools
+  - conda-forge::streamlit==1.21.0
