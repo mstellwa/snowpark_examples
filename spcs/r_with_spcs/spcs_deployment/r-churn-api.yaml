@@ -1,0 +1,20 @@
+spec:
+  container:
+  - name: r-churn-api
+    image: /<your db>/<your schema>/images/r-churn-api-image
+    volumeMounts:
+    - name: r-models
+      mountPath: /r-models
+    env:
+      SERVER_PORT: 8080
+    readinessProbe:
+      port: 8080
+      path: /connection-status      
+  volume:
+  - name: r-models
+    source: "@r_models"
+    uid: 0
+    gid: 0
+  endpoint:
+  - name: rchurnendpoint
+    port: 8080

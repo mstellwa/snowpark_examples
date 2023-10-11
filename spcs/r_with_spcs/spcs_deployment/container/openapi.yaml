@@ -1,0 +1,36 @@
+openapi: "3.0.3"
+servers:
+  description: Localhost
+  url: http://127.0.0.1:8080
+info:
+  description: API Description
+  version: "1.0.0"
+  title: R Churn Prediction
+paths:
+  /connection-status:
+    get:
+      summary: 'Checks that our API service is running'
+      responses:
+        default:
+          description: Default response.
+  /predict:
+    post:
+      summary: 'Churn input JSON'
+      responses:
+        default:
+          description: Default response.
+      parameters: []
+      requestBody:
+        description: Customer Data
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              properties:
+                data:
+                  type: array
+                  title: input data
+                  items:
+                      type: array
+                      items: {} 
