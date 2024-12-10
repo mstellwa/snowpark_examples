@@ -104,7 +104,7 @@ def plot_lineage(df):
         G.nodes[row['TARGET_NAME']]['category'] = row['TARGET_CATEGORY']
     
     # Define your categories
-    categories = ['MODEL', 'DATASET', 'TABLE', 'FEATURE_VIEW', 'VIEW']
+    categories = ['MODEL', 'DATASET', 'TABLE', 'FEATURE_VIEW', 'VIEW', 'STAGE']
     
     # Define a colormap using matplotlib's colormap function
     colormap = plt.get_cmap('Set2')
