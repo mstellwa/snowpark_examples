@@ -6,5 +6,5 @@ dependencies:
   - networkx=*
   - seaborn=*
   - shap=*
-  - snowflake-ml-python=*
+  - snowflake-ml-python=1.7.2
   - snowflake.core=*

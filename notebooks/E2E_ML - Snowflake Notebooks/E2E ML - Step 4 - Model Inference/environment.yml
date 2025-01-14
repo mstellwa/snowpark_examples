@@ -3,4 +3,4 @@ channels:
   - snowflake
 dependencies:
   - snowflake=*
-  - snowflake-ml-python=*
+  - snowflake-ml-python=1.7.2

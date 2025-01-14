@@ -40,7 +40,7 @@ def generate_demo_data(session, num_customers=1000, ltv_multiplier=1, session_le
     generaldata_table_name = f'CUSTOMER_GENERAL_DATA'
     behaviordata_table_name = f'CUSTOMER_BEHAVIOR_DATA'
     df[['EMAIL','LIFE_TIME_VALUE','YEAR_MONTH']].write.save_as_table(ltv_table_name, mode='append')
-    print(f'Added {num_customers} customers to table: {ltv_table_name}')
+    print(f'Added {num_customers} customers to table: {ltv_table_name} for YEAR_MONTH: {str(end_year) + str(month)}')
     df[['EMAIL','GENDER','MEMBERSHIP_STATUS','MEMBER_JOIN_DATE']].write.save_as_table(generaldata_table_name, mode='append')
     print(f'Added {num_customers} customers to table: {generaldata_table_name}')
     df[['EMAIL','AVG_SESSION_LENGTH_MIN','AVG_TIME_ON_APP_MIN','AVG_TIME_ON_WEBSITE_MIN']].write.save_as_table(behaviordata_table_name, mode='append')
